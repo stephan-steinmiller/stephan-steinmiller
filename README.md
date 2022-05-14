@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephan-steinmiller
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue and GDScript
-- 📫 How to reach me stephansteinmiller@pm.me
+- 📫 How to reach me: stephansteinmiller@pm.me
 
 <!---
 - 💞️ I’m looking to collaborate on ...
