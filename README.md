@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephan-steinmiller
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning Vue and GDScript
 - 📫 How to reach me: stephansteinmiller@proton.me
 
