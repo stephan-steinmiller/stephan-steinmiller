@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephan-steinmiller
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning Java ☕️, Svelte, Supabase and Tailwind
+- 🌱 I’m currently learning ☕️ Java, Svelte, Supabase and Tailwind
 
 <!---
 - 📫 How to reach me: stephansteinmiller@proton.me
