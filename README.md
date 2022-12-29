@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephan-steinmiller
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning ☕️ Java, Svelte, ⚡️ Supabase, Tailwind and λ Haskell
+- 🌱 I’m currently learning ☕️ Java, Svelte and λ Haskell
 
 <!---
 - 📫 How to reach me: stephansteinmiller@proton.me
