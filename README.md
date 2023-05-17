@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @stephan-steinmiller
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning .mcfunction <!--☕️ Java, Sveltekit and λ Haskell
+- 🌱 I’m currently learning .mcfunction 
+<!--☕️ Java, Sveltekit and λ Haskell--->
 
 <!---
 - 📫 How to reach me: stephansteinmiller@proton.me
